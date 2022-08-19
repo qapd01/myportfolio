@@ -59,6 +59,7 @@
     .single__experience h5{
         font-size: .9rem;
         margin-bottom: 10px;
+        font-weight: bold;
     }
 
     .single__experience p{
