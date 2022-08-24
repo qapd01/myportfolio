@@ -33,7 +33,7 @@ const Service = () => {
     <Container>
         <Row>
             <Col lg='12' className='services__top mb-5'>
-                <h2>Skills</h2>
+                <h2>What Can I do for you.</h2>
                 <h6>These are skills that I have.</h6>
             </Col>
 
