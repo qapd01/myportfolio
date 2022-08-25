@@ -14,14 +14,14 @@ const portfolioData = [
         imgUrl : img01,
         title: 'Jammming',
         tool : 'React.js, Javascript',
-        item :  'https://github.com/qapd01/Jamming-exams',
+        item :  'https://first-jamming.surge.sh/',
         description : "I build this by using react.js and use api to get list from spotify"
     },
     {
         imgUrl : img02,
         title: 'Exercise Tracker',
         tool : 'React.js, Javascript',
-        item :  'https://github.com/qapd01/backend-final',
+        item :  'https://test-deploy-hazel-tau.vercel.app/',
         description : "This is my final project I MERN stack to create it "
     },
     {
