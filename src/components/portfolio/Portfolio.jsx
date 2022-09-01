@@ -30,8 +30,8 @@ const portfolioData = [
         imgUrl : img03,
         title: 'Colmar',
         tool : 'HTML, CSS, BootStrap',
-        item :  'https://github.com/qapd01?tab=repositories',
-        item02 :  'https://github.com/qapd01?tab=repositories',
+        item :  'https://github.com/qapd01/colmar.github.io.git',
+        item02 :  'https://colmar-github-io.vercel.app/',
         description : " I build this web from paper request turn it to web by using HTML, CSS and Boostrap"
     },
    
